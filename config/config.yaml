@@ -281,7 +281,7 @@ notification:
 
     email:
       from: "13686867880@163.com"     # 发件人邮箱地址（163邮箱）
-      password: "请填写163邮箱SMTP授权码"    # ⚠️ 发件人邮箱授权码（非登录密码！）
+      password: "BSSMHPfkCYVpFG3P"          # 发件人邮箱授权码（163邮箱SMTP）
                                         # 163邮箱获取方式：登录163邮箱 → 设置 → POP3/SMTP/IMAP →
                                         # 开启SMTP服务 → 获取授权码
       to: "13686867880@163.com,562822206@qq.com"  # 收件人邮箱，多个用逗号分隔
